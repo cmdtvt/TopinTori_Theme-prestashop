@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/fs1/9/heavisid/public_html/verkkokauppa/presta17/themes/classic/templates/checkout/_partials/steps/addresses.tpl" source-language="fi-FI" target-language="fi-FI" datatype="plaintext">
+    <body>
+      <trans-unit id="ea34b5c6cf6511c7c9e23cf7bf5d6792">
+        <source>Your address is incomplete, please update it.</source>
+        <target>Päivitä osoitteesi, tietoja puuttuu.</target>
+        <note>Context:
+File: /var/www/fs1/9/heavisid/public_html/verkkokauppa/presta17/themes/classic/templates/checkout/_partials/steps/addresses.tpl:116</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
